@@ -29,7 +29,7 @@ const HeroSection = () => {
             </div>
           </div>
           <div className="HeroSection_right">
-            <img src="/assets/images/314002953_743397407211109_5520526277855823221_n.png" alt="img_hero_banner" />
+            <img src="./assets/images/314002953_743397407211109_5520526277855823221_n.png" alt="img_hero_banner" />
           </div>
         </div>
         <div className="HeroSection_bottom_nums">

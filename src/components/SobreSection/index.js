@@ -7,7 +7,7 @@ const SobreSection = () => {
         <div className="SobreSection_container_main">
           <div className="SobreSection_container_left">
             <img
-              src="/assets/images/322627573_701469964719280_2965971996845624568_n.png"
+              src="./assets/images/322627573_701469964719280_2965971996845624568_n.png"
               alt="efeito-mask"
             />
           </div>

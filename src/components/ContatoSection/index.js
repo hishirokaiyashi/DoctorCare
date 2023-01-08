@@ -39,7 +39,7 @@ const ContatoSection = () => {
           </div>
           <div className="ContatoSection_right">
             <img
-              src="/assets/images/320341431_1839045216473269_7834424503591849043_n.png"
+              src="./assets/images/320341431_1839045216473269_7834424503591849043_n.png"
               alt="ContatoSection_right"
             />
           </div>
